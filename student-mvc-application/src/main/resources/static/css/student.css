@@ -1,0 +1,19 @@
+.messages {
+    margin-top: 55px;
+}
+
+.new-student {
+    margin-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.modal {
+   position: absolute;
+   left: 14%;
+   top: 50%;
+   margin-left: -150px;
+   margin-top: -150px;
+}
